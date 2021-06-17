@@ -1,0 +1,1 @@
+# GAN_model_for_handwriting_generation
